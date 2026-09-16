@@ -17,5 +17,4 @@
 
 •⁠  ⁠Advanced C++
 •⁠  ⁠Algorithms
-•⁠  ⁠Competitive Programming
 •⁠  ⁠Git & GitHub
