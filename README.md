@@ -19,8 +19,7 @@
 •⁠  ⁠Algorithms
 •⁠  ⁠Git & GitHub
 
-<img
-  src="https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/output/github-contribution-grid-snake.gif"
-  alt="Purple snake on a dark background with green contribution squares"
-  width="100%"
-/>
+## 🐍 My GitHub Contributions
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/output/github-contribution-grid-snake.svg)
+
