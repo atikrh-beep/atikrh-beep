@@ -18,3 +18,8 @@
 •⁠  ⁠Advanced C++
 •⁠  ⁠Algorithms
 •⁠  ⁠Git & GitHub
+
+
+## 🐍 My GitHub Contributions
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/output/github-contribution-grid-snake.svg)
