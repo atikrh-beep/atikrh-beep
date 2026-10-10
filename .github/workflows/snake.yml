@@ -1,3 +1,4 @@
+
 name: Generate Snake Animation
 
 on:
@@ -11,16 +12,17 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate Snake
+      - name: Generate Purple and Green Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%23800080&color_dots=%23161B22,%230D4429,%23006D32,%2300A344,%2300D364
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23800080&color_dots=%23161B22,%230D4429,%23006D32,%2300A344,%2300D364
 
-      - name: Deploy Snake Animation
+      - name: Publish Snake Animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
