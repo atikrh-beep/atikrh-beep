@@ -173,9 +173,6 @@
   <code>COMPUTER SCIENCE</code> &nbsp; <code>SOFTWARE DEVELOPMENT</code> &nbsp; <code>PROBLEM SOLVING</code>
 </p>
 
-<p align="center">
-  <b>BUILD WITH PURPOSE. LEARN WITH CURIOSITY. IMPROVE EVERY DAY.</b>
-</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:080B16,45:172554,100:6D28D9" alt="Decorative footer banner" />
@@ -183,6 +180,10 @@
 
 <p align="center">
   <sub>Designed with curiosity and a passion for technology.<br />Dashboard widgets rely on external services. If a card stops loading, check the provider or consider self-hosting it.</sub>
+</p>
+
+<p align="center">
+  <b>BUILD WITH PURPOSE. LEARN WITH CURIOSITY. IMPROVE EVERY DAY.</b>
 </p>
 
 <!--
