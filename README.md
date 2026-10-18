@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://atikurrahmansite.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/atikrh-beep"><img src="https://img.shields.io/badge/GITHUB-PROFILE-818CF8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://bd.linkedin.com/in/md-atikur-rahman-4874aa299"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-<p align="center">
   <code>COMPUTER SCIENCE</code> &nbsp; <code>SOFTWARE DEVELOPMENT</code> &nbsp; <code>PROBLEM SOLVING</code>
 </p>
 
@@ -60,15 +54,17 @@
 <p align="center"><b><code>02</code> &nbsp;LIVE GITHUB ANALYTICS</b></p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=atikrh-beep&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics dashboard" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikrh-beep&layout=donut-vertical&hide_border=true&theme=tokyonight&langs_count=6" alt="Most-used languages in public repositories" />
+  <img align="top" width="49%" src="https://github-readme-stats.vercel.app/api?username=atikrh-beep&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true&card_width=350" alt="GitHub statistics dashboard" />
+  <img align="top" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikrh-beep&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&card_width=350" alt="Most-used languages in public repositories" />
 </p>
 
 <p align="center">
   <img width="80%" src="https://streak-stats.demolab.com?user=atikrh-beep&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
 </p>
 
-<sub>Analytics reflect data available to each widget and may be cached. Language distribution measures code in repositories, not overall programming proficiency.</sub>
+<p align="center">
+  <sub>Analytics reflect data available to each widget and may be cached. Language distribution measures code in repositories, not overall programming proficiency.</sub>
+</p>
 
 <p align="center"><b><code>03</code> &nbsp;CONTRIBUTION TIMELINE</b></p>
 
@@ -103,10 +99,7 @@
   </a>
 </p>
 
-Personal developer website and portfolio entry point.
-
-- [Open the live website](https://atikurrahmansite.vercel.app/)
-- [View the source repository](https://github.com/atikrh-beep/atikurrahman.site)
+<p align="center">Personal developer website and portfolio entry point.</p>
 
 <p align="center"><b>◈ Jomi Guard Pro</b></p>
 
@@ -116,9 +109,7 @@ Personal developer website and portfolio entry point.
   </a>
 </p>
 
-An AI-powered land-record screening and report-integrity verification concept developed for a digital land records hackathon.
-
-[Explore the Jomi Guard Pro repository →](https://github.com/atikrh-beep/Code-Nova_Jomi-Guard-Pro)
+<p align="center">An AI-powered land-record screening and report-integrity verification concept developed for a digital land records hackathon.</p>
 
 <p align="center">
   <a href="https://github.com/atikrh-beep?tab=repositories">
@@ -132,7 +123,9 @@ An AI-powered land-record screening and report-integrity verification concept de
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=atikrh-beep&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub profile trophies" />
 </p>
 
-<sub>Trophies are generated from GitHub activity and provider-defined criteria. They are not professional certifications.</sub>
+<p align="center">
+  <sub>Trophies are generated from GitHub activity and provider-defined criteria. They are not professional certifications.</sub>
+</p>
 
 <p align="center"><b><code>07</code> &nbsp;TECHNOLOGY MATRIX</b></p>
 
@@ -148,7 +141,9 @@ An AI-powered land-record screening and report-integrity verification concept de
 | Developer tools | Git, GitHub, VS Code |
 | Exploring | Node.js, backend development, AI-assisted workflows |
 
-<sub>These technologies represent my learning and development interests, not a claim of equal proficiency in every tool.</sub>
+<p align="center">
+  <sub>These technologies represent my learning and development interests, not a claim of equal proficiency in every tool.</sub>
+</p>
 
 <p align="center"><b><code>08</code> &nbsp;ACTIVE LEARNING PIPELINE</b></p>
 
@@ -164,34 +159,16 @@ An AI-powered land-record screening and report-integrity verification concept de
   <img src="https://img.shields.io/badge/BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20SHIP-0EA5E9?style=for-the-badge" alt="Learning stage" />
 </p>
 
-My current priorities are to strengthen programming fundamentals, improve frontend engineering, learn backend development, and build practical projects with thoughtful user experiences.
-
-<p align="center"><b><code>09</code> &nbsp;CONNECT TERMINAL</b></p>
-
 <p align="center">
-  <code>$ whoami</code><br />
-  <b>Atikur Rahman</b>
+  My current priorities are to strengthen programming fundamentals, improve frontend engineering, learn backend development, and build practical projects with thoughtful user experiences.
 </p>
 
-<p align="center">
-  <code>$ open portfolio</code><br />
-  <a href="https://atikurrahmansite.vercel.app/">atikurrahmansite.vercel.app</a>
-</p>
+<p align="center"><b><code>09</code> &nbsp;CONNECT WITH ME</b></p>
 
 <p align="center">
-  <code>$ connect github</code><br />
-  <a href="https://github.com/atikrh-beep">github.com/atikrh-beep</a>
-</p>
-
-<p align="center">
-  <code>$ connect linkedin</code><br />
-  <a href="https://bd.linkedin.com/in/md-atikur-rahman-4874aa299">linkedin.com/in/md-atikur-rahman</a>
-</p>
-
-<p align="center">
-  <a href="https://atikurrahmansite.vercel.app/"><img src="https://img.shields.io/badge/01%20PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" /></a>
-  <a href="https://github.com/atikrh-beep"><img src="https://img.shields.io/badge/02%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://bd.linkedin.com/in/md-atikur-rahman-4874aa299"><img src="https://img.shields.io/badge/03%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://atikurrahmansite.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/atikrh-beep"><img src="https://img.shields.io/badge/GITHUB-PROFILE-818CF8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://bd.linkedin.com/in/md-atikur-rahman-4874aa299"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
