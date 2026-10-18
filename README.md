@@ -8,7 +8,7 @@
   <i>Exploring Computer Science, Problem Solving, AI & Innovative Technology.</i>
 </p>
 
-<p align="center"><b>Aspiring Full-Stack Web Developer from Bangladesh ⚛️</b></p>
+<p align="center"><b>Aspiring Full-Stack Web Developer from Bangladesh </b></p>
 
 <p align="center">
   I'm a passionate developer focused on building clean, useful web applications and learning how great software is made. I enjoy working across the stack, from crafting intuitive frontends to understanding the backend systems behind them, using technology to solve real-world problems.
