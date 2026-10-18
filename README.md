@@ -16,7 +16,15 @@
   <i>Exploring Computer Science, Problem Solving, AI & Innovative Technology.</i>
 </p>
 
-<p align="center"><i><b>SYSTEM PROFILE:</b> CSE student at Daffodil International University, exploring software engineering, frontend development, algorithms, and AI-assisted development.</i></p>
+<p align="center"><b>Aspiring Full-Stack Web Developer from Bangladesh ⚛️</b></p>
+
+<p align="center">
+  I'm a passionate developer focused on building clean, useful web applications and learning how great software is made. I enjoy working across the stack, from crafting intuitive frontends to understanding the backend systems behind them, using technology to solve real-world problems.
+</p>
+
+<p align="center">
+  As a continuous learner, I thrive on exploring new tools, strengthening my problem-solving through algorithms, and taking on challenging projects. My goal is always to create impactful, well-designed solutions while growing alongside the tech community.
+</p>
 
 <p align="center"><b><code>01</code> &nbsp;SYSTEM OVERVIEW</b></p>
 
@@ -25,12 +33,12 @@
     <td width="50%">
       <b>👨‍💻 DEVELOPER</b><br />
       Atikur Rahman<br />
-      <sub>Computer Science & Engineering</sub>
+      <sub>Full-Stack Web Development</sub>
     </td>
     <td width="50%">
-      <b>🎓 ACADEMIC BACKGROUND</b><br />
-      Daffodil International University<br />
-      <sub>Bangladesh</sub>
+      <b>📍 LOCATION</b><br />
+      Bangladesh<br />
+      <sub>Building from anywhere</sub>
     </td>
   </tr>
   <tr>
@@ -144,50 +152,41 @@ An AI-powered land-record screening and report-integrity verification concept de
 
 <p align="center"><b><code>08</code> &nbsp;ACTIVE LEARNING PIPELINE</b></p>
 
-```text
-┌─────────────────────────┐
-│   COMPUTER SCIENCE      │
-│      FUNDAMENTALS       │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│   ALGORITHMS & DSA      │
-│    PROBLEM SOLVING      │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│   FRONTEND ENGINEERING  │
-│   UI / UX DEVELOPMENT   │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│   BACKEND DEVELOPMENT   │
-│       NODE.JS           │
-└────────────┬────────────┘
-             ↓
-┌─────────────────────────┐
-│   BUILD • TEST • SHIP   │
-│   PRACTICAL PROJECTS    │
-└─────────────────────────┘
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/COMPUTER%20SCIENCE%20FUNDAMENTALS-38BDF8?style=for-the-badge" alt="Learning stage" /><br />
+  <b>↓</b><br />
+  <img src="https://img.shields.io/badge/ALGORITHMS%20%26%20DSA-818CF8?style=for-the-badge" alt="Learning stage" /><br />
+  <b>↓</b><br />
+  <img src="https://img.shields.io/badge/FRONTEND%20ENGINEERING-6D28D9?style=for-the-badge" alt="Learning stage" /><br />
+  <b>↓</b><br />
+  <img src="https://img.shields.io/badge/BACKEND%20DEVELOPMENT-172554?style=for-the-badge" alt="Learning stage" /><br />
+  <b>↓</b><br />
+  <img src="https://img.shields.io/badge/BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20SHIP-0EA5E9?style=for-the-badge" alt="Learning stage" />
+</p>
 
 My current priorities are to strengthen programming fundamentals, improve frontend engineering, learn backend development, and build practical projects with thoughtful user experiences.
 
 <p align="center"><b><code>09</code> &nbsp;CONNECT TERMINAL</b></p>
 
-```bash
-$ whoami
-Atikur Rahman
+<p align="center">
+  <code>$ whoami</code><br />
+  <b>Atikur Rahman</b>
+</p>
 
-$ open portfolio
-https://atikurrahmansite.vercel.app/
+<p align="center">
+  <code>$ open portfolio</code><br />
+  <a href="https://atikurrahmansite.vercel.app/">atikurrahmansite.vercel.app</a>
+</p>
 
-$ connect github
-https://github.com/atikrh-beep
+<p align="center">
+  <code>$ connect github</code><br />
+  <a href="https://github.com/atikrh-beep">github.com/atikrh-beep</a>
+</p>
 
-$ connect linkedin
-https://bd.linkedin.com/in/md-atikur-rahman-4874aa299
-```
+<p align="center">
+  <code>$ connect linkedin</code><br />
+  <a href="https://bd.linkedin.com/in/md-atikur-rahman-4874aa299">linkedin.com/in/md-atikur-rahman</a>
+</p>
 
 <p align="center">
   <a href="https://atikurrahmansite.vercel.app/"><img src="https://img.shields.io/badge/01%20PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" /></a>
