@@ -170,6 +170,10 @@
 </p>
 
 <p align="center">
+  <code>COMPUTER SCIENCE</code> &nbsp; <code>SOFTWARE DEVELOPMENT</code> &nbsp; <code>PROBLEM SOLVING</code>
+</p>
+
+<p align="center">
   <b>BUILD WITH PURPOSE. LEARN WITH CURIOSITY. IMPROVE EVERY DAY.</b>
 </p>
 
@@ -179,10 +183,6 @@
 
 <p align="center">
   <sub>Designed with curiosity and a passion for technology.<br />Dashboard widgets rely on external services. If a card stops loading, check the provider or consider self-hosting it.</sub>
-</p>
-
-<p align="center">
-  <code>COMPUTER SCIENCE</code> &nbsp; <code>SOFTWARE DEVELOPMENT</code> &nbsp; <code>PROBLEM SOLVING</code>
 </p>
 
 <!--
