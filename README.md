@@ -16,11 +16,9 @@
   <i>Exploring Computer Science, Problem Solving, AI & Innovative Technology.</i>
 </p>
 
-> **SYSTEM PROFILE:** CSE student at Daffodil International University, exploring software engineering, frontend development, algorithms, and AI-assisted development.
+<p align="center"><i><b>SYSTEM PROFILE:</b> CSE student at Daffodil International University, exploring software engineering, frontend development, algorithms, and AI-assisted development.</i></p>
 
----
-
-## `01` / SYSTEM OVERVIEW
+<p align="center"><b><code>01</code> &nbsp;SYSTEM OVERVIEW</b></p>
 
 <table>
   <tr>
@@ -49,11 +47,9 @@
   </tr>
 </table>
 
-> **MISSION:** Turn computer science knowledge into useful, accessible, and well-designed digital experiences.
+<p align="center"><i><b>MISSION:</b> Turn computer science knowledge into useful, accessible, and well-designed digital experiences.</i></p>
 
----
-
-## `02` / LIVE GITHUB ANALYTICS
+<p align="center"><b><code>02</code> &nbsp;LIVE GITHUB ANALYTICS</b></p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=atikrh-beep&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics dashboard" />
@@ -66,43 +62,29 @@
 
 <sub>Analytics reflect data available to each widget and may be cached. Language distribution measures code in repositories, not overall programming proficiency.</sub>
 
----
-
-## `03` / CONTRIBUTION TIMELINE
+<p align="center"><b><code>03</code> &nbsp;CONTRIBUTION TIMELINE</b></p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=atikrh-beep&bg_color=0b1020&color=93c5fd&line=818cf8&point=38bdf8&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" alt="GitHub contribution activity timeline" />
 </p>
 
----
+<p align="center"><b><code>04</code> &nbsp;GITHUB CONTRIBUTION SNAKE</b></p>
 
-## `04` / GITHUB CONTRIBUTION SNAKE
-
-<!--
-Why this is wrapped in <a>:
-GitHub turns every bare image into a link to the raw file, which opens
-the SVG on a white page. Wrapping it in your own link replaces that
-behavior, so a click just goes to your profile.
--->
 <p align="center">
-  <a href="https://github.com/atikrh-beep">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/output/github-contribution-grid-snake.svg" />
-      <img src="https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
   <sub>One contribution at a time. One step closer to mastery.</sub>
 </p>
 
----
+<p align="center"><b><code>05</code> &nbsp;PROJECT CONTROL CENTER</b></p>
 
-## `05` / PROJECT CONTROL CENTER
-
-### ◈ Personal Portfolio
+<p align="center"><b>◈ Personal Portfolio</b></p>
 
 <p align="center">
   <a href="https://github.com/atikrh-beep/atikurrahman.site">
@@ -118,7 +100,7 @@ Personal developer website and portfolio entry point.
 - [Open the live website](https://atikurrahmansite.vercel.app/)
 - [View the source repository](https://github.com/atikrh-beep/atikurrahman.site)
 
-### ◈ Jomi Guard Pro
+<p align="center"><b>◈ Jomi Guard Pro</b></p>
 
 <p align="center">
   <a href="https://github.com/atikrh-beep/Code-Nova_Jomi-Guard-Pro">
@@ -136,9 +118,7 @@ An AI-powered land-record screening and report-integrity verification concept de
   </a>
 </p>
 
----
-
-## `06` / ACHIEVEMENT MONITOR
+<p align="center"><b><code>06</code> &nbsp;ACHIEVEMENT MONITOR</b></p>
 
 <p align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=atikrh-beep&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub profile trophies" />
@@ -146,9 +126,7 @@ An AI-powered land-record screening and report-integrity verification concept de
 
 <sub>Trophies are generated from GitHub activity and provider-defined criteria. They are not professional certifications.</sub>
 
----
-
-## `07` / TECHNOLOGY MATRIX
+<p align="center"><b><code>07</code> &nbsp;TECHNOLOGY MATRIX</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,git,github,vscode,arduino&theme=dark&perline=5" alt="Programming languages and development tools" />
@@ -164,9 +142,7 @@ An AI-powered land-record screening and report-integrity verification concept de
 
 <sub>These technologies represent my learning and development interests, not a claim of equal proficiency in every tool.</sub>
 
----
-
-## `08` / ACTIVE LEARNING PIPELINE
+<p align="center"><b><code>08</code> &nbsp;ACTIVE LEARNING PIPELINE</b></p>
 
 ```text
 ┌─────────────────────────┐
@@ -197,9 +173,7 @@ An AI-powered land-record screening and report-integrity verification concept de
 
 My current priorities are to strengthen programming fundamentals, improve frontend engineering, learn backend development, and build practical projects with thoughtful user experiences.
 
----
-
-## `09` / CONNECT TERMINAL
+<p align="center"><b><code>09</code> &nbsp;CONNECT TERMINAL</b></p>
 
 ```bash
 $ whoami
