@@ -2,9 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B16,45:172554,100:6D28D9&text=ATIKUR%20RAHMAN&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=BUILDING%20%E2%80%A2%20LEARNING%20%E2%80%A2%20ENGINEERING&descAlignY=60&descSize=14" alt="Atikur Rahman developer dashboard banner" />
 </p>
 
-<p align="center">
-  <code>COMPUTER SCIENCE</code> &nbsp; <code>SOFTWARE DEVELOPMENT</code> &nbsp; <code>PROBLEM SOLVING</code>
-</p>
+
 
 <p align="center">
   <i>Exploring Computer Science, Problem Solving, AI & Innovative Technology.</i>
@@ -181,6 +179,10 @@
 
 <p align="center">
   <sub>Designed with curiosity and a passion for technology.<br />Dashboard widgets rely on external services. If a card stops loading, check the provider or consider self-hosting it.</sub>
+</p>
+
+<p align="center">
+  <code>COMPUTER SCIENCE</code> &nbsp; <code>SOFTWARE DEVELOPMENT</code> &nbsp; <code>PROBLEM SOLVING</code>
 </p>
 
 <!--
