@@ -20,32 +20,6 @@
 
 <p align="center"><b><code>01</code> &nbsp;SYSTEM OVERVIEW</b></p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <b>👨‍💻 DEVELOPER</b><br />
-      Atikur Rahman<br />
-      <sub>Full-Stack Web Development</sub>
-    </td>
-    <td width="50%">
-      <b>📍 LOCATION</b><br />
-      Bangladesh<br />
-      <sub>Building from anywhere</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>🧠 INTERESTS</b><br />
-      Web · Algorithms · AI<br />
-      <sub>Software engineering and practical technology</sub>
-    </td>
-    <td>
-      <b>⚡ DEVELOPMENT APPROACH</b><br />
-      Learn → Build → Test → Improve<br />
-      <sub>Focused on continuous improvement</sub>
-    </td>
-  </tr>
-</table>
 
 <p align="center"><i><b>MISSION:</b> Turn computer science knowledge into useful, accessible, and well-designed digital experiences.</i></p>
 
