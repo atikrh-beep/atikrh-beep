@@ -86,14 +86,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,git,github,vscode,arduino&theme=dark&perline=5" alt="Programming languages and development tools" />
 </p>
 
-| Domain | Technologies and interests |
-| --- | --- |
-| Programming | C, C++, Java fundamentals |
-| Web development | HTML, CSS, JavaScript, frontend engineering |
-| Computer science | Data structures, algorithms, OOP fundamentals |
-| Developer tools | Git, GitHub, VS Code |
-| Exploring | Node.js, backend development, AI-assisted workflows |
-
 <p align="center">
   <sub>These technologies represent my learning and development interests, not a claim of equal proficiency in every tool.</sub>
 </p>
