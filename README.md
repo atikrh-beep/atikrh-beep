@@ -12,39 +12,20 @@
 
 <p align="center">
   I'm a passionate developer focused on building clean, useful web applications and learning how great software is made. I enjoy working across the stack, from crafting intuitive frontends to understanding the backend systems behind them, using technology to solve real-world problems.
-</p>
-
-<p align="center">
   As a continuous learner, I thrive on exploring new tools, strengthening my problem-solving through algorithms, and taking on challenging projects. My goal is always to create impactful, well-designed solutions while growing alongside the tech community.
 </p>
 
-<p align="center"><b><code>01</code> &nbsp;SYSTEM OVERVIEW</b></p>
 
-
-<p align="center"><i><b>MISSION:</b> Turn computer science knowledge into useful, accessible, and well-designed digital experiences.</i></p>
-
-<p align="center"><b><code>02</code> &nbsp;LIVE GITHUB ANALYTICS</b></p>
+<p align="center"><b><code>02</code> &nbsp;GITHUB ANALYTICS</b></p>
 
 <p align="center">
-  <img align="top" width="49%" src="https://github-readme-stats.vercel.app/api?username=atikrh-beep&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true&card_width=350" alt="GitHub statistics dashboard" />
-  <img align="top" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikrh-beep&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&card_width=350" alt="Most-used languages in public repositories" />
-</p>
+  <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=atikrh-beep&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true&card_width=350" alt="GitHub statistics dashboard" />
 
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=atikrh-beep&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
+  <img width="50%" src="https://streak-stats.demolab.com?user=atikrh-beep&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <sub>Analytics reflect data available to each widget and may be cached. Language distribution measures code in repositories, not overall programming proficiency.</sub>
-</p>
-
-<p align="center"><b><code>03</code> &nbsp;CONTRIBUTION TIMELINE</b></p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=atikrh-beep&bg_color=0b1020&color=93c5fd&line=818cf8&point=38bdf8&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" alt="GitHub contribution activity timeline" />
-</p>
-
-<p align="center"><b><code>04</code> &nbsp;GITHUB CONTRIBUTION SNAKE</b></p>
+<p align="center"><b><code>04</code> &nbsp; SNEAKY</b></p>
 
 <p align="center">
   <picture>
