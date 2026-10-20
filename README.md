@@ -16,7 +16,7 @@
 </p>
 
 
-<p align="center"><b><code>02</code> &nbsp;GITHUB ANALYTICS</b></p>
+<p align="center"><b><code></code> &nbsp;GITHUB ANALYTICS</b></p>
 
 <p align="center">
   <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=atikrh-beep&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true&card_width=350" alt="GitHub statistics dashboard" />
@@ -25,21 +25,13 @@
   <img width="50%" src="https://streak-stats.demolab.com?user=atikrh-beep&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
 </p>
 
-<p align="center"><b><code>04</code> &nbsp; SNEAKY</b></p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
-  </picture>
-</p>
 
 <p align="center">
   <sub>One contribution at a time. One step closer to mastery.</sub>
 </p>
 
-<p align="center"><b><code>05</code> &nbsp;PROJECT CONTROL CENTER</b></p>
+<p align="center"><b><code></code> &nbsp;PROJECT CONTROL CENTER</b></p>
 
 <p align="center"><b>◈ Personal Portfolio</b></p>
 
@@ -54,15 +46,6 @@
 
 <p align="center">Personal developer website and portfolio entry point.</p>
 
-<p align="center"><b>◈ Jomi Guard Pro</b></p>
-
-<p align="center">
-  <a href="https://github.com/atikrh-beep/Code-Nova_Jomi-Guard-Pro">
-    <img width="75%" src="https://github-readme-stats.vercel.app/api/pin/?username=atikrh-beep&repo=Code-Nova_Jomi-Guard-Pro&theme=tokyonight&hide_border=true" alt="Jomi Guard Pro repository card" />
-  </a>
-</p>
-
-<p align="center">An AI-powered land-record screening and report-integrity verification concept developed for a digital land records hackathon.</p>
 
 <p align="center">
   <a href="https://github.com/atikrh-beep?tab=repositories">
@@ -80,7 +63,7 @@
   <sub>Trophies are generated from GitHub activity and provider-defined criteria. They are not professional certifications.</sub>
 </p>
 
-<p align="center"><b><code>07</code> &nbsp;TECHNOLOGY MATRIX</b></p>
+<p align="center"><b><code></code> &nbsp;TECHNOLOGY MATRIX</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,git,github,vscode,arduino&theme=dark&perline=5" alt="Programming languages and development tools" />
@@ -90,7 +73,7 @@
   <sub>These technologies represent my learning and development interests, not a claim of equal proficiency in every tool.</sub>
 </p>
 
-<p align="center"><b><code>08</code> &nbsp;ACTIVE LEARNING PIPELINE</b></p>
+<p align="center"><b><code></code> &nbsp;ACTIVE LEARNING PIPELINE</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/COMPUTER%20SCIENCE%20FUNDAMENTALS-38BDF8?style=for-the-badge" alt="Learning stage" /><br />
@@ -108,7 +91,7 @@
   My current priorities are to strengthen programming fundamentals, improve frontend engineering, learn backend development, and build practical projects with thoughtful user experiences.
 </p>
 
-<p align="center"><b><code>09</code> &nbsp;CONNECT WITH ME</b></p>
+<p align="center"><b><code></code> &nbsp;CONNECT WITH ME</b></p>
 
 <p align="center">
   <a href="https://atikurrahmansite.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -128,7 +111,15 @@
 <p align="center">
   <b>BUILD WITH PURPOSE. LEARN WITH CURIOSITY. IMPROVE EVERY DAY.</b>
 </p>
+<p align="center"><b><code></code> &nbsp; SNEAKY</b></p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+  </picture>
+</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:080B16,45:172554,100:6D28D9" alt="Decorative footer banner" />
