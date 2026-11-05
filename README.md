@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/main/assets/header.svg" alt="Atikur Rahman - Full-Stack Web Developer" />
+  <img width="100%" src="https://raw.githubusercontent.com/atikrh-beep/atikrh-beep/main/assets/header.svg?v=2" alt="Atikur Rahman - Full-Stack Web Developer" />
 </p>
 
 <p align="center">
