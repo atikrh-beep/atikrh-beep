@@ -16,8 +16,13 @@
 <p align="center"><b>GITHUB ANALYTICS</b></p>
 
 <p align="center">
-  <img align="top" width="49%" src="https://github-readme-stats.vercel.app/api?username=atikrh-beep&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true&card_width=350" alt="GitHub statistics dashboard" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=atikrh-beep&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
+<img align="top" width="49%"
+src="https://github-stats-extended.vercel.app/api?username=atikrh-beep&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true&card_width=350"
+alt="GitHub statistics dashboard" />
+
+<img width="49%"
+src="https://streak-stats.demolab.com?user=atikrh-beep&theme=tokyonight&hide_border=true&border_radius=12"
+alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
