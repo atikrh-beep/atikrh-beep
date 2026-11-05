@@ -35,10 +35,13 @@ alt="GitHub contribution streak" />
 
 <p align="center">
   <a href="https://github.com/atikrh-beep/atikurrahman.site">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=atikrh-beep&repo=atikurrahman.site&theme=tokyonight&hide_border=true" alt="Personal portfolio repository card" />
+    <img width="49%"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=atikrh-beep&repo=atikurrahman.site&theme=tokyonight&hide_border=true"
+    alt="Personal portfolio repository card" />
   </a>
   <a href="https://atikurrahmansite.vercel.app/">
-    <img src="https://img.shields.io/badge/OPEN-LIVE%20PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Open live portfolio" />
+    <img src="https://img.shields.io/badge/OPEN-LIVE%20PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Open live portfolio" />
   </a>
 </p>
 
